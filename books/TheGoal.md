@@ -21,3 +21,5 @@
 * [LitRes ebook Russian](https://www.litres.ru/eliyahu-goldratt/cel-process-nepreryvnogo-sovershenstvovaniya/chitat-onlayn/)
 * [Kindle ebook English](https://www.amazon.com/Goal-Process-Ongoing-Improvement-ebook/dp/B002LHRM2O)
 * [Audible Audiobook English](https://www.amazon.com/Goal-Process-Ongoing-Improvement-Anniversary/dp/B00IFGGDA2/)
+
+### [Вернуться к списку](../)
