@@ -22,4 +22,4 @@
 * [Kindle ebook English](https://www.amazon.com/Goal-Process-Ongoing-Improvement-ebook/dp/B002LHRM2O)
 * [Audible Audiobook English](https://www.amazon.com/Goal-Process-Ongoing-Improvement-Anniversary/dp/B00IFGGDA2/)
 
-### [Вернуться к списку](../)
+### [Вернуться к списку](https://github.com/golodnyj/TheBestITBooks)

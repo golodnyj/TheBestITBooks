@@ -1,7 +1,7 @@
 ## Джедайские техники. 
 
 **Авторы:** Максим Дорофеев <br />
-**Название:** Джедайские техники. Как воспитать свою обезьяну, опустошить инбокс и сберечь мыслетопливо <br />
+**Название:** «Джедайские техники. Как воспитать свою обезьяну, опустошить инбокс и сберечь мыслетопливо» <br />
 
 Книга вышла в 2017 году. 
 
@@ -17,8 +17,8 @@
 
 > Никакой системой метрик и измерений вы не замените необходимость думать и самостоятельно принимать решения.
 
-### Купить или скачать «Цель. Процесс непрерывного улучшения»  
-* [Ozon paperbook Russian](https://www.ozon.ru/context/detail/id/141279570/)
+### Купить или скачать «Джедайские техники»  
+* [Ozon paperbook Russian](https://www.ozon.ru/context/detail/id/140376487/)
 * [LitRes ebook Russian](https://www.litres.ru/maksim-dorofeev/dzhedayskie-tehniki-kak-vospitat-svou-obezyanu-opustoshit-inboks-i-sberech-mysletoplivo/)
 
-### [Вернуться к списку](../)
+### [Вернуться к списку](https://github.com/golodnyj/TheBestITBooks)
