@@ -13,6 +13,6 @@
 ### Купить или скачать «Рефакторинг. Улучшение существующего кода»  
 * [Ozon paperbook Russian](https://www.ozon.ru/context/detail/id/1308678/)
 * [Kindle ebook English](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Technology-ebook/dp/B007WTFWJ6)
-
+* [Informit ebook English](http://www.informit.com/store/refactoring-improving-the-design-of-existing-code-9780134757599)
 
 ### [Вернуться к списку](https://github.com/golodnyj/TheBestITBooks)

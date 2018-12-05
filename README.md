@@ -18,5 +18,6 @@
 * Дональд Норман — «Дизайн привычных вещей» 
 * Сергей Орлов — «Программная инженерия. Учебник для вузов»
 
+* David Kushner — «[Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](./books/MastersOfDoom.md)»
 
 
