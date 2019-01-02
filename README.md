@@ -4,7 +4,7 @@
 
 ## Список
 
-; "kbz V& Ujkmlhfnn — «~Wtkm& Ghjwtcc ytghthsdyjuj улучшенияъ(ю/ищщлы/ЕруПщфдюьв)» 
+* Элия М. Гольдратт — «[Цель. Процесс непрерывного ekexitybz](./books/TheGoal.md)» 
 * Максим Дорофеев — «[Джедайские техники](./books/JediTechnology.md)» 
 * Мартин Фаулер — «[Рефакторинг. Улучшение существующего кода](./books/Refactoring.md)» 
 * Стив Макконнелл — «[Совершенный код](./books/CodeComplete.md)»
