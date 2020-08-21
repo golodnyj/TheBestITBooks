@@ -20,3 +20,5 @@
 * Сергей Орлов — «Программная инженерия. Учебник для вузов» 
 * David Kushner — «[Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](./books/MastersOfDoom.md)»
 * Нассим Талеб — «[Рискуя собственной шкурой](./books/SkinInTheGame.md)»
+* Джин Ким, Джордж Спаффорд, Кевин Бер —  «[Проект «Феникс»](./books/ProjectPhoenix.md)»
+* Джин Ким —  «[The Unicorn Project](./books/ProjectUnicorn.md)»
